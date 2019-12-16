@@ -13,3 +13,5 @@ git branch +名字 查看分支
 git checkout 名字 切换分支
 git checkout -b 名字 删除分支
 git stash  隐藏
+git stash pop 取消隐藏
+123
