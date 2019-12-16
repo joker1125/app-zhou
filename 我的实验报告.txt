@@ -15,3 +15,4 @@ git checkout -b 名字 删除分支
 git stash  隐藏
 git stash pop 取消隐藏
 git status list 隐藏列表
+git merge --no-ff-m"...." 合并分支
